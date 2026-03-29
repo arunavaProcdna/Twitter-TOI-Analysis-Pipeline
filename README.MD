@@ -61,3 +61,9 @@ python3 main.py
 ├── .gitignore        
 ```
 
+input/ → Raw tweet data (.xlsx files)
+analysis/ → Intermediate processing
+final_output/ → Final TOI outputs (JSON/XLSX)
+test/ → Test scripts and validation
+.xlsx files are ignored in Git but used locally
+Add your API keys in a .env file if required
