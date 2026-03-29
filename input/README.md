@@ -1,0 +1,1 @@
+This folder contains   main input file( tweeter data set)
