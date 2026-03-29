@@ -1,16 +1,13 @@
-# tweet-flow
-
-> _Description coming soon._
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/<your-org>/tweet-flow.git
-cd tweet-flow
+git clone https://github.com/arunavaProcdna/Twitter-TOI-Analysis-Pipeline/
+cd Twitter-TOI-Analysis-Pipeline
 ```
 
 ### 2. Create a Virtual Environment
