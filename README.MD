@@ -42,24 +42,22 @@ python3 main.py
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
-tweet-flow/
+.
+├── analysis/
+├── final_output/
+├── input/
+├── test/
+├── llm_call.py
 ├── main.py
+├── thread_wise_processor_first.py
+├── thread_wise_processor_second.py
+├── utils_graph.py
+├── utility.py
 ├── requirements.txt
 ├── README.md
-└── venv/               # (not committed to git)
+├── .gitignore         # (not committed to git)
 ```
 
----
-
-## 🤝 Contributing
-
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
----
-
-## 📄 License
-
-_License TBD._
