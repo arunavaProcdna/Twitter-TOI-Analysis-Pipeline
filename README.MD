@@ -58,6 +58,6 @@ python3 main.py
 ├── utility.py
 ├── requirements.txt
 ├── README.md
-├── .gitignore         # (not committed to git)
+├── .gitignore        
 ```
 
